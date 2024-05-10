@@ -1,20 +1,12 @@
 {
-    "Goal":15,
-    "Target":"15.1",
-    "Indicator":"15.1.2",
-    "SeriesCode":"ER_PTD_FRHWTR",
-    "SeriesDescription":"Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)",
-    "GeoAreaCode":1,
-    "GeoAreaName":"World",
-    "TimePeriod":2023,
-    "Value":"44.521940000000001",
-    "Time_Detail":"2023",
-    "UpperBound":"44.521940000000001",
-    "LowerBound":"44.521940000000001",
-    "Source":"BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)",
-    "Nature":"N",
-    "ObservationStatus":"A",
-    "ReportingType":"G",
-    "Units":"PERCENT"
- }
- 
+    "Goal15": [
+        {
+            "GeoAreaName": "World",
+            "Value": 44.52194
+        },
+        {
+            "GeoAreaName": "Afghanistan",
+            "Value": 60.85211
+        }
+    ]
+}
